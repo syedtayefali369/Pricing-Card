@@ -4,7 +4,7 @@
 
 <img width="1399" alt="pricing card" src="https://github.com/user-attachments/assets/f1984baa-f8c3-4e3d-81eb-d1ae25a67f5f" />
 
-**Live Demo:** (https://syedtayefali369.github.io/Pricing-Card/)  
+**🔴Live Demo:** (https://syedtayefali369.github.io/Pricing-Card/)  
 **Featured On:** [CSS Weekly](https://css-weekly.com) | [Codepen Spotlight](https://codepen.io)
 
 ## 🌟 Premium Features
